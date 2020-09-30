@@ -2,8 +2,8 @@ Java Object Layout Dumpers
 ----------------------------------------------------------------------
 
                  This tool had migrated under OpenJDK:
-           http://openjdk.java.net/projects/code-tools/jol/
-
-         (If you are the fork owner, please consider purging it,
+                    https://github.com/openjdk/jol
+                    
+         (If you own the fork of this repo, please consider purging it,
             and cloning the OpenJDK-ish repository instead.
                  That will stop confusing the users.)
